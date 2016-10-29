@@ -14,5 +14,8 @@ The default Font is "IRANSans", So if you want to use another Font, Please chang
 
 Hope to like it !
 
+# Kurdish Version
+As soon as possible, I will put Iran Provinces Name to Kurdish (Kurmanji & ...) !
+
 Ali Bahaari
 
