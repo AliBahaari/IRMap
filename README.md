@@ -13,7 +13,7 @@ I have used Material Design Colors to appear more better. The jQuery Codes are v
 The default Font is "IRANSans", So if you want to use another Font, Please change "font-family" property in "style" tag.
 
 # Kurdish Version
-As soon as possible, I will put Iran Provinces Name to Kurdish (Kurmanji & ...) !
+As soon as possible, I will put Iran Provinces Names to Kurdish (Kurmanji & ...) !
 
 Hope to like it !
 
