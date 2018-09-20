@@ -1,18 +1,12 @@
 # IRMap
 
-IRMap (SVG) Has Been Written For Web Developers Who They Want To Use Iran Map In Their Websites. Every Province That You Hover On That, Shows Its Province Name.
+**IRMap** has been written for web developers who they want to use ***Iran*** map in their websites. Every province hovering on that Shows its name.
 
-Notice That Two Version Of Iran Map Has Been Uploaded :
-
-1. Iran Map With Borders Tooltip
-2. Iran Map Without Borders Tooltip
-
-The Map Is Responsive & Scalable Beacuse Of Using SVG.
-I Have Used "Material Design" Colors To Appear More Better. The jQuery Codes Are Very Small To Improve Loading Of Iran Map.
-The Default Font Is "IRANSans", So If You Want To Use Another Font, Please Change ```font-family``` Property In ```style``` Tag.
+Notice that two version of iran map has been uploaded :
+* With borders tooltip
+* Without borders tooltip
+The map is responsive & scalable beacuse of using ***SVG***. I have used "Material Design" colors to appear more better. ***jQuery*** codes are very small to improve loading. Default font is "IRANSans", So if you want to use another font, Please change `font-family` property in `style` tag.
 
 # Kurdish Version
-As Soon As Possible, I Will Put Provinces Name In Kurdish Language (Kurmanji & ...) !
-
-Hope To Like It !
+As soon as possible, I will put provinces name in Kurdish language (Kurmanji & ...).
 
