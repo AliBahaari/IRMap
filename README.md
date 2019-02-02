@@ -1,4 +1,3 @@
 # IRMap
 
-***IRMap*** is **Iran** map in Scalable Vector Graphics (SVG).
-
+**Iran** country map in *Scalable Vector Graphics (SVG)*.
