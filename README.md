@@ -1,3 +1,3 @@
 # IRMap
 
-**Iran** country map in *Scalable Vector Graphics (SVG)*.
+An interactive and responsive *SVG* map of **Iran**.
